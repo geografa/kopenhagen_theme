@@ -1,16 +1,18 @@
-# Copenhagen Theme by Zendesk
+# Kopenhagen Theme
 
-The Copenhagen theme is the default Zendesk Guide theme. It is designed to be responsive and accessible.
+The Kopenhagen theme is a fork of the default Zendesk Guide theme. It is designed to be responsive and accessible.
 Learn more about customizing Zendesk Guide [here](https://support.zendesk.com/hc/en-us/sections/206670747).
 
-The Copenhagen theme for Help Center consists of:
+![img](./assets/hc.gif)
+
+The Kopenhagen theme for Help Center consists of:
 - [Manifest file](#manifest-file)
 - [Set of templates](#templates)
 - [Stylesheet and JavaScript files](#stylesheet-and-javascript)
 - [Assets folder](#assets).
 
 ## How to use
-This is the latest version of the Copenhagen theme available for Guide. It is possible to use this repository as a starting point to build your own custom theme. You can fork this repository as you see fit.
+This is the latest version of the Kopenhagen theme available for Guide. It is possible to use this repository as a starting point to build your own custom theme. You can fork this repository as you see fit.
 You can use your favorite IDE to develop themes and preview your changes locally in a web browser using [ZCLI](https://github.com/zendesk/zcli/). For details, read the [zcli themes](https://github.com/zendesk/zcli/blob/master/docs/themes.md) documentation.
 
 ## Customizing your theme
@@ -105,7 +107,7 @@ Notes:
 - Preview requires login so make sure to first run `yarn zcli login -i` if you haven't done that before.
 
 ## Assets
-The Copenhagen theme doesn't have any assets, but you can add assets to your theme by placing them in the `assets` folder.
+The Kopenhagen theme doesn't have any assets, but you can add assets to your theme by placing them in the `assets` folder.
 
 # Accessibility testing
 
@@ -200,7 +202,7 @@ In this example, errors for the audit `tabindex` with the selector `body > a.ski
 Please keep in mind that this should only be used when strictly necessarity. Accessibility should be a focus and a priority when making changes to the theme.
 
 # Contributing
-Pull requests are welcome on GitHub at https://github.com/zendesk/copenhagen_theme. Please mention @zendesk/vikings when creating a pull request.
+Pull requests are welcome on GitHub at https://github.com/zendesk/Kopenhagen_theme. Please mention @zendesk/vikings when creating a pull request.
 
 We use [conventional commits](https://conventionalcommits.org/) to improve readability of the project history and to automate the release process. The commit message should therefore respect the following format:
 
