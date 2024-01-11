@@ -202,7 +202,7 @@ In this example, errors for the audit `tabindex` with the selector `body > a.ski
 Please keep in mind that this should only be used when strictly necessarity. Accessibility should be a focus and a priority when making changes to the theme.
 
 # Contributing
-Pull requests are welcome on GitHub at https://github.com/zendesk/Kopenhagen_theme. Please mention @zendesk/vikings when creating a pull request.
+Pull requests are welcome on GitHub at https://github.com/zendesk/Kopenhagen_theme. Please mention @geografa when creating a pull request.
 
 We use [conventional commits](https://conventionalcommits.org/) to improve readability of the project history and to automate the release process. The commit message should therefore respect the following format:
 
