@@ -13,7 +13,8 @@ The Kopenhagen theme for Help Center consists of:
 
 ## How to use
 This is the latest version of the Kopenhagen theme available for Guide. It is possible to use this repository as a starting point to build your own custom theme. You can fork this repository as you see fit.
-You can use your favorite IDE to develop themes and preview your changes locally in a web browser using [ZCLI](https://github.com/zendesk/zcli/). For details, read the [zcli themes](https://github.com/zendesk/zcli/blob/master/docs/themes.md) documentation.
+You can use your favorite IDE to develop themes and preview your changes locally in a web browser using [ZCLI](https://github.com/zendesk/zcli/). For details, read the [zcli themes](https://github.com/zendesk/zcli/blob/master/docs/themes.md) documentation. If you're logging in with ZCLI, When prompted, enter your subdomain, email address appended with "/token", and your API token as the password.
+
 
 ## Customizing your theme
 Once you have forked this repository you can feel free to edit templates, CSS, JavaScript and manage assets.
